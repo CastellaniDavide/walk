@@ -4,7 +4,7 @@ import sys
 import os
 from datetime import datetime
 
-__author__ = "Castellani Davide & Sabaini Chiara 3CI"
+__author__ = "Castellani Davide & *** Chiara 3CI"
 __version__ = "01.01 2020-03-24"
 
 class walk:
